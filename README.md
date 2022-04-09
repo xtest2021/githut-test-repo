@@ -5,7 +5,7 @@
   English | [简体中文](https://github.com/githut-test-repo/githut-test-repo/blob/main/README-zh.md)
   
   <a href="https://github.com/xtest2021/githut-test-repo/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT&20License-blue" alt="">
+    <img src="https://img.shields.io/badge/license-MIT%20License-blue" alt="">
   </a>
   <a href="https://www.microsoft.com/en-us/windows">
     <img src="https://img.shields.io/badge/platform-windows-orange" alt="">
