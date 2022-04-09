@@ -15,7 +15,7 @@
   </a>
 </div>
 
-I will use [GithuT](https://github.com/macwinlin-studio/GithuT) to test GithuT's usage(include devloper version's new usage).
+I will use [GithuT](https://github.com/macwinlin-studio/GithuT) to test GithuT's usage(include devloper version's new function).
 ## Usage
 ## Maintainers
 This project's maintainers are MacWinLin Studio CGK Team's members.
