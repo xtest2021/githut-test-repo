@@ -19,8 +19,8 @@
 I will use [GithuT](https://github.com/macwinlin-studio/GithuT) to test GithuT's usage(include devloper version's new usage).
 ## Usage
 ## Maintainers
-This project's maintainers are MacWinLin Studio CGK Team's member.
+This project's maintainers are MacWinLin Studio CGK Team's members.
 
 And more?
 ## License
-This project use MIT License
+This project use MIT License.
